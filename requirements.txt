@@ -1,0 +1,12 @@
+selenium
+webdriver-manager
+beautifulsoup4
+requests
+groq
+python-dotenv
+requests-cache
+undetected-chromedriver
+pytest
+pytest-cov
+pytest-mock
+pytest-asyncio

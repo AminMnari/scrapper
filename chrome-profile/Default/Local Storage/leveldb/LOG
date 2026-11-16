@@ -1,0 +1,8 @@
+2026/04/01-17:36:52.814 10cc Reusing MANIFEST C:\Users\aminm\projects\scraper\chrome-profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/01-17:36:52.820 10cc Recovering log #10
+2026/04/01-17:36:52.821 10cc Level-0 table #13: started
+2026/04/01-17:36:52.829 10cc Level-0 table #13: 88438 bytes OK
+2026/04/01-17:36:52.830 10cc Recovering log #13
+2026/04/01-17:36:52.832 10cc Reusing old log C:\Users\aminm\projects\scraper\chrome-profile\Default\Local Storage\leveldb/000013.log 
+2026/04/01-17:36:52.835 10cc Delete type=0 #10
+2026/04/01-17:36:52.835 10cc Delete type=2 #14
